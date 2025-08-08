@@ -31,4 +31,22 @@ Planned improvements and features include:
 ## 📬 Contract Address
 
 ```txt
-0x5ff83525da8417ec1f9ebea3084d28f0af3d7b0dc181057fc7f649dfbafcff41
+{
+  "Result": {
+    "transaction_hash": "0xb228672b427943c66ce25eacb9b193e20988e5e5baecddb4752e212686f4f517",
+    "gas_used": 82,
+    "gas_unit_price": 100,
+    "sender": "5ff83525da8417ec1f9ebea3084d28f0af3d7b0dc181057fc7f649dfbafcff41",
+    "sequence_number": 1,
+    "replay_protector": {
+      "SequenceNumber": 1
+    },
+    "success": true,
+    "timestamp_us": 1754652025475899,
+    "version": 28215132,
+    "vm_status": "Executed successfully"
+  }
+}
+
+
+<img width="861" height="527" alt="image" src="https://github.com/user-attachments/assets/252af30a-5834-4692-8704-6d10e14b3296" />
