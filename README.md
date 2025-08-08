@@ -49,4 +49,5 @@ Planned improvements and features include:
 }
 
 
-<img width="861" height="527" alt="image" src="https://github.com/user-attachments/assets/252af30a-5834-4692-8704-6d10e14b3296" />
+<img width="861" height="527" alt="Capture" src="https://github.com/user-attachments/assets/17dbcc21-fb59-4033-a4fa-ffc18ab17175" />
+
