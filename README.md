@@ -47,7 +47,6 @@ Planned improvements and features include:
     "vm_status": "Executed successfully"
   }
 }
-
-
+```
 <img width="861" height="527" alt="Capture" src="https://github.com/user-attachments/assets/17dbcc21-fb59-4033-a4fa-ffc18ab17175" />
 
